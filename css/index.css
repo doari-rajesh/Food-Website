@@ -258,7 +258,10 @@ input{
 }
 
 
-
+footer{
+    text-align: center;
+    background-color: rgb(232, 224, 224);
+}
 
 
 
